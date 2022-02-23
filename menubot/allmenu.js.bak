@@ -1,5 +1,5 @@
 const menunya = (prefix) => {
-return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
+return`━━֍  〔 🪀 _*BY ${Awiee bot}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${Awiee botz}_
 ◈ _Nomor Owner : ${Awiee botz}_
@@ -332,7 +332,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║                  ZeilBotz
+║                  AwieeBotz
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
