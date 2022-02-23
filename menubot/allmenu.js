@@ -8,7 +8,12 @@ return`━━֍  〔 🪀 _*BY ${Awiee bot}*_ 🪀〕
 〽️ IG : ( awiee_store !! ) JAN LUPA FOLLOW 〽️
 〽️ TIK TOK : ( FAUZAN AL FARIZKY !! ) JAN LUPA FOLLOW 〽️
 
-
+   🌀JANGAN LUPAKAN JUGA JOIN GC BOT GZ🌀
+1.->https://chat.whatsapp.com/C0TOJVyfS6S18KCNjijF7A
+2.->https://chat.whatsapp.com/K3JkfQJkbjc2VRnbiasQYY
+3.->https://chat.whatsapp.com/KNNVuzWKhH12cxI5nbtlw9
+4.->https://chat.whatsapp.com/FgCyXvBlTAq4NxJuiAxNV5
+5.->https://chat.whatsapp.com/FgCyXvBlTAq4NxJuiAxNV5
 
 *──────" INFORMASI "──────*
 ╔══════════════════╗
