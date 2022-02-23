@@ -1,12 +1,12 @@
 const menunya = (prefix) => {
-return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
+return`━━֍  〔 🪀 _*BY ${Awiee bot}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${Awiee botz}_
 ◈ _Nomor Owner : ${Awiee botz}_
-️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
+️ YT : FAUZAN AL FARIZKY JANGAN LUPA SUBSCRIBE ️
 ️ NOMOR : 0896545070096 HEMAT JAN LUPA️S
-〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
-〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
+〽️ IG : ( awiee_store !! ) JAN LUPA FOLLOW 〽️
+〽️ TIK TOK : ( FAUZAN AL FARIZKY !! ) JAN LUPA FOLLOW 〽️
 
 
 
@@ -327,7 +327,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║     By *ZeilBotz*
+║     By *AwieeBotz*
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
